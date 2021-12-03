@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladi\\Documents\\GitHub\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj": {}
+    "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladi\\Documents\\GitHub\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj": {
+    "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\Documents\\GitHub\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj",
+        "projectUniqueName": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj",
         "projectName": "UDPServer_MoldProject",
-        "projectPath": "C:\\Users\\vladi\\Documents\\GitHub\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\Documents\\GitHub\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\obj\\",
+        "projectPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPServer_MoldProject.csproj",
+        "packagesPath": "C:\\Users\\razuh\\.nuget\\packages\\",
+        "outputPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\razuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

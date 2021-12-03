@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = UDPServer_MoldProject
-build_property.ProjectDir = C:\Users\vladi\Documents\GitHub\mold-udp-server\UDPServer_MoldProject\UDPServer_MoldProject\
+build_property.ProjectDir = D:\3rdSemester\Mandatory Assignments for Woseflow\ExamProjectMold_SystemDevelopment\mold-udp-server\UDPServer_MoldProject\UDPServer_MoldProject\
