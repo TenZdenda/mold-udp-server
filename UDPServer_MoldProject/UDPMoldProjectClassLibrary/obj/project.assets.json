@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPMoldProjectListener.csproj",
-      "projectName": "UDPMoldProjectListener",
-      "projectPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\UDPMoldProjectListener.csproj",
+      "projectUniqueName": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPMoldProjectClassLibrary\\UDPMoldProjectClassLibrary.csproj",
+      "projectName": "UDPMoldProjectClassLibrary",
+      "projectPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPMoldProjectClassLibrary\\UDPMoldProjectClassLibrary.csproj",
       "packagesPath": "C:\\Users\\razuh\\.nuget\\packages\\",
-      "outputPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPServer_MoldProject\\obj\\",
+      "outputPath": "D:\\3rdSemester\\Mandatory Assignments for Woseflow\\ExamProjectMold_SystemDevelopment\\mold-udp-server\\UDPServer_MoldProject\\UDPMoldProjectClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
