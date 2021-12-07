@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDPMoldProjectListener", "U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMoldProjectClassLibrary", "UDPMoldProjectClassLibrary\UDPMoldProjectClassLibrary.csproj", "{211D8E64-37E7-46D9-809B-5143ACF8440C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_RESTServices", "WebAPI_RESTServices\WebAPI_RESTServices.csproj", "{90E9A98D-6C7A-45F2-8D9C-49D213455838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{211D8E64-37E7-46D9-809B-5143ACF8440C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211D8E64-37E7-46D9-809B-5143ACF8440C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211D8E64-37E7-46D9-809B-5143ACF8440C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E9A98D-6C7A-45F2-8D9C-49D213455838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E9A98D-6C7A-45F2-8D9C-49D213455838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E9A98D-6C7A-45F2-8D9C-49D213455838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E9A98D-6C7A-45F2-8D9C-49D213455838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

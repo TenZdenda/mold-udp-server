@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace UDPMoldProjectClassLibrary
 {
-    class DataFromSensor
+    public class DataFromSensor
     {
         public int DeviceNo { get; set; }
         public double Temperature { get; set; }

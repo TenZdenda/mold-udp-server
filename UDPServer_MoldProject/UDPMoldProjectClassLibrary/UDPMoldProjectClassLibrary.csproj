@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>ARM64</PlatformTarget>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <DocumentationFile>D:\3rdSemester\Mandatory Assignments for Woseflow\ExamProjectMold_SystemDevelopment\mold-udp-server\UDPServer_MoldProject\UDPMoldProjectClassLibrary\UDPMoldProjectClassLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>
